@@ -1,0 +1,52 @@
+body {
+    color: rgb(199, 195, 195);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(138, 106, 79);
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+main.index h1 {
+    color: rgb(20, 19, 19);
+}
+
+main.index {
+    display: block;
+    width: 88.5%;
+    text-align: center;
+    position: absolute;
+    top: 25%;
+    color: rgb(175, 172, 172);
+    padding-right: 20%;
+}
+
+img {
+    width: 80%;
+    filter: opacity(.5);
+}
+
+div.imagen {
+
+    width: 35%;
+    float: left;
+
+}
+
+p.index {
+    padding-left: 30%;
+    padding-right: 30%;
+
+}
+
+div.container {
+    overflow: hidden;
+    padding-top: 100px;
+
+}
+
+
+
+
+
+
+
